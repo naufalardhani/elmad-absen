@@ -1,5 +1,5 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-X-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-OSX-orange.svg)]()
 [![undefined](https://img.shields.io/github/v/release/naufalardhani/cpanel-pass-reset.svg)](https://github.com/naufalardhani/cpanel-pass-reset/releases/latest)
 
 # elmad-absen
