@@ -1,6 +1,6 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Mojave_MacOS-orange.svg)]()
-[![undefined](https://img.shields.io/github/v/release/naufalardhani/cpanel-pass-reset.svg)](https://github.com/naufalardhani/cpanel-pass-reset/releases/latest)
+[![undefined](https://img.shields.io/github/v/release/naufalardhani/elmad-absen.svg)](https://github.com/naufalardhani/elmad-absen/releases/latest)
 
 # elmad-absen
 Elmad-Absen is an automatic absent tool for E-Learning Madrasah made by Kemenag 
