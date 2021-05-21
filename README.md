@@ -14,7 +14,7 @@ Elmad-Absen is an automatic absent tool for E-Learning Madrasah made by Kemenag
 
 # How To Install:
 1. `git clone https://github.com/naufalardhani/elmad-absen.git`
-2. `cd elmad-absen && pip3 install -r requirements.txt'
+2. `cd elmad-absen && pip3 install -r requirements.txt`
 
 # How To Usage:
 1. `cd elmad-absen`
